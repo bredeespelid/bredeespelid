@@ -2,7 +2,7 @@
 
 🌍 **Based in Bergen, Norway**  
 📚 **Master’s Student with Major Degree in Business Analytics**  
-💼 **Accounting accounting assistant at [Godt Brød]**  
+💼 **Accounting accounting assistant at Godt Brød**  
 
 ---
 
