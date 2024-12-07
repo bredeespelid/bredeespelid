@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Brede
 
 🌍 **Based in Bergen, Norway**  
-📚 **Master’s Student with Major Degree in Business Analytics**  
+📚 **📚 Master’s Student, Majoring in Business Analytics**  
 💼 **Accounting assistant at Godt Brød**  
 
 ---
