@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there! 👋 I'm Brede
 
-<!--
-**bredeespelid/bredeespelid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 **Based in Bergen, Norway**  
+📚 **Master’s Student with Major Degree in Business Analytics**  
+💼 **Accounting accounting assistant at [Godt Brød]**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 **What I’m Learning**
+- Advanced Data Scaling Techniques (Big Data)  
+- Python API Integration for AI and Analytics  
+- Power BI for Enhanced Visual Reporting  
+
+---
+
+## 🌊 **About Me**
+- 🌟 Passionate about leveraging AI and data analytics to solve real-world problems.  
+- 🏔️ Avid windsurfer and mountain enthusiast – always up for a new adventure!  
+- 🎣 Can talk endlessly about fishing, hiking, and Norwegian fjord stories.  
+
