@@ -16,5 +16,5 @@
 ## 🌊 **About Me**
 - 🌟 Passionate about leveraging AI and data analytics to solve real-world problems.  
 - 🏔️ Avid windsurfer and mountain enthusiast – always up for a new adventure!  
-- 🎣 Can talk endlessly about fishing, hiking, and Norwegian fjord stories.  
+- 🎣 Can talk endlessly about fishing, hiking, and travel stories.  
 
