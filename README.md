@@ -7,9 +7,10 @@
 ---
 
 ## 🌱 **What I’m Learning**
+- Modelling and data optimization
 - Advanced Data Scaling Techniques (Big Data)  
 - Python API Integration for AI and Analytics  
-- Power BI for Enhanced Visual Reporting  
+
 
 ---
 
