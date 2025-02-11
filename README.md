@@ -1,8 +1,9 @@
 # Hi there! 👋 I'm Brede
 
 🌍 **Based in Bergen, Norway**  
-📚 **Master’s Student, Majoring in Business Analytics and a Minor in Finance [Study Plan](https://github.com/bredeespelid/Master_NHH)**
+📚 **Master’s Student, Majoring in Business Analytics and a Minor in Finance**
 💼 **Accounting assistant at Godt Brød in Oslo -remote**  
+[Study Plan](https://github.com/bredeespelid/Master_NHH)
 
 ---
 
