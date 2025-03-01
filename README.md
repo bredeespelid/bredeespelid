@@ -8,11 +8,8 @@
 
 ## GitHub Stats
 
-![Brede's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark#gh-dark-mode-only)
-![Brede's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default#gh-light-mode-only)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark#gh-dark-mode-only)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default#gh-light-mode-only)
+![Brede's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bredeespelid&show_icons=true&theme=github_dark#gh-dark-mode-only)
+![Brede's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bredeespelid&show_icons=true&theme=default#gh-light-mode-only)
 
 
 ## 🌱 **What I’m Learning**
