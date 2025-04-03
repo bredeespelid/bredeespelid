@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Brede
 
-🌍 **Based in Bergen, Norway**  
-📚 Master’s Student, Majoring in Business Analytics and a Minor in Finance **[Study Plan](https://github.com/bredeespelid/Master_NHH)**  
-🌍 **Founder of TrendMe **[Website](trendme.no)**** 
+*   🌍 **Based in Bergen, Norway**
+*   📚 **Master’s Student, Majoring in Business Analytics and a Minor in Finance** [Study Plan](https://github.com/bredeespelid/Master_NHH)
+*   🌍 **Founder of TrendMe** [Website](https://trendme.no)
 ---
 
 ## GitHub Stats
