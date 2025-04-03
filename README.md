@@ -1,9 +1,8 @@
 # Hi there! 👋 I'm Brede
 
-🌍 **Based in Bergen, Norway**  
-📚 **Master’s Student, Majoring in Business Analytics and a Minor in Finance **[Study Plan](https://github.com/bredeespelid/Master_NHH)**
- **Founder of TrendMe **[Website](trendme.no)****
-
+🌍 **Based in Bergen, Norway**  <-- To mellomrom her KAN lage linjeskift
+📚 **Master’s Student, Majoring in Business Analytics and a Minor in Finance **[Study Plan](https://github.com/bredeespelid/Master_NHH)** <-- Fet skrift slutter FØR linken, så kommer en ekstra ** til slutt
+ **Founder of TrendMe **[Website](trendme.no)**** 
 ---
 
 ## GitHub Stats
