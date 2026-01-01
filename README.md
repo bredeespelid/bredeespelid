@@ -50,8 +50,9 @@
 
 ---
 
-*Competitive background – promoted to Master tier in League of Legends (EUW, top ~0.4%), reflecting long-term optimization, discipline, and performance under pressure.*
+*Competitive background – promoted to Master tier in League of Legends (EUW), placing top ~0.4% among ~4 million ranked players, reflecting long-term optimization, discipline, and performance under pressure.*
 
-<img src="https://github.com/bredeespelid/Gaming/blob/e5be8a0cb423e772f138d1d845c3904f9173c375/Promote.png" width="280"/>
-
+<p align="center">
+  <img src="https://github.com/bredeespelid/Gaming/blob/e5be8a0cb423e772f138d1d845c3904f9173c375/Promote.png" width="420"/>
+</p>
 
