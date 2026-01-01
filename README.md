@@ -6,8 +6,8 @@
 ---
 
 ## GitHub Stats
-![Brede's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bredeespelid&show_icons=true&theme=github_dark#gh-dark-mode-only)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bredeespelid&layout=compact&theme=github_dark#gh-dark-mode-only)
+![Brede's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bredeespelid&show_icons=true&theme=github_dark&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bredeespelid&layout=compact&theme=github_dark&cache_seconds=86400)
 
 
 
