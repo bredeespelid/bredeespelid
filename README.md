@@ -5,10 +5,23 @@
 *   🌍 **Founder of TrendMe** [Website](https://trendme.no)
 ---
 
-## GitHub Stats
-![Brede's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bredeespelid&show_icons=true&theme=github_dark&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bredeespelid&layout=compact&theme=github_dark&cache_seconds=86400)
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=bredeespelid&show_icons=true&theme=github_dark"
+    media="(prefers-color-scheme: dark)" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=bredeespelid&show_icons=true&theme=default"
+    alt="Brede's GitHub Stats" />
+</picture>
 
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bredeespelid&layout=compact&theme=github_dark"
+    media="(prefers-color-scheme: dark)" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bredeespelid&layout=compact&theme=default"
+    alt="Top Languages" />
+</picture>
 
 
 
